@@ -50,50 +50,52 @@ I'm **Toufiqul Islam**, a Computer Science & Engineering student who enjoys turn
 
 </div>
 
-### ✦ Featured projects
+### ✦ Selected engineering projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌱 [AgroLink BD](https://github.com/Toufiqul-27/Agro-Link-java-)**
+**🗂️ [ApplyTrack — Full-Stack](https://github.com/Toufiqul-27/applytrack-fullstack)**
 
-An agricultural supply-chain desktop project with produce listings, orders and truck-booking workflows.
+Job application manager with React, accounts and a PostgreSQL-backed API. Source available; deployment pending.
 
-<code>Java</code> <code>JavaFX</code> <code>MySQL</code>
+<code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code>
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 [Personal Portfolio](https://github.com/Toufiqul-27/portfolio-1)**
+**⚙️ [TaskFlow API](https://github.com/Toufiqul-27/taskflow-api)**
 
-A dark-themed responsive personal portfolio built with HTML and CSS.
+Authentication, user-owned tasks, validation, filtering, pagination and API documentation.
 
-<code>HTML</code> <code>CSS</code>
+<code>TypeScript</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧩 [LeetCode Practice](https://github.com/Toufiqul-27/LeetCode-Problems)**
+**📊 [GitHub Insights](https://github.com/Toufiqul-27/github-insights-dashboard)**
 
-A growing collection of coding exercises covering algorithmic problem-solving.
+Responsive GitHub profile and repository explorer with search, sorting and language breakdown.
 
-<code>DSA</code> <code>Problem solving</code>
+<code>React</code> <code>TypeScript</code> <code>REST API</code>
 
 </td>
 <td width="50%" valign="top">
 
-**☕ [Java Learning Projects](https://github.com/Toufiqul-27/java)**
+**🌱 [AgroLink BD](https://github.com/Toufiqul-27/Agro-Link-java-)**
 
-Java fundamentals, object-oriented programming and desktop application practice.
+Agricultural supply-chain desktop project with produce listings, orders and truck booking.
 
-<code>Java</code> <code>OOP</code> <code>JavaFX</code>
+<code>Java</code> <code>JavaFX</code> <code>MySQL</code>
 
 </td>
 </tr>
 </table>
+
+<sub>Recent web/backend projects are AI-assisted learning builds. Live demos, integration testing and further independent improvements are next steps.</sub>
 
 ### ✦ Open source
 
