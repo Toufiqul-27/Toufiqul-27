@@ -2,7 +2,7 @@
   <img src="./assets/hero.svg" width="100%" alt="Toufiqul Islam — software engineering, backend development and open source" />
 
   <p>
-    <a href="https://github.com/Toufiqul-27/Portfolio"><b>Portfolio</b></a>
+    <a href="https://toufiqul-27.github.io/Portfolio/"><b>Live Portfolio</b></a>
     &nbsp; · &nbsp;
     <a href="https://www.linkedin.com/in/toufiqul-islam-0624b7402/"><b>LinkedIn</b></a>
     &nbsp; · &nbsp;
