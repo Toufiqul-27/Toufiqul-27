@@ -1,27 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Toufiqul Islam — Software Engineering, Web Development, Open Source">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Toufiqul Islam — Software Engineering</title>
+<desc id="desc">Minimal midnight-navy developer banner with violet and cyan orbital details</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090e1e"/><stop offset=".55" stop-color="#12132a"/><stop offset="1" stop-color="#1c1641"/></linearGradient>
-  <radialGradient id="violet" cx="50%" cy="50%" r="50%"><stop stop-color="#8b5cf6" stop-opacity=".38"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
-  <radialGradient id="cyan" cx="50%" cy="50%" r="50%"><stop stop-color="#22d3ee" stop-opacity=".24"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#dbeafe" opacity=".08"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090f1e"/><stop offset=".55" stop-color="#11162b"/><stop offset="1" stop-color="#1c1738"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+ <radialGradient id="violet"><stop stop-color="#9b79ee" stop-opacity=".24"/><stop offset="1" stop-color="#9b79ee" stop-opacity="0"/></radialGradient>
+ <radialGradient id="cyan"><stop stop-color="#4dd5e7" stop-opacity=".18"/><stop offset="1" stop-color="#4dd5e7" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#b7c2ea" opacity=".10"/></pattern>
 </defs>
-<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-<ellipse cx="45" cy="5" rx="360" ry="240" fill="url(#violet)"/>
-<ellipse cx="1080" cy="260" rx="340" ry="280" fill="url(#cyan)"/>
-<ellipse cx="970" cy="190" rx="440" ry="310" fill="url(#violet)"/>
-<g fill="none" stroke-width="1.5" opacity=".72">
-<circle cx="1082" cy="180" r="175" stroke="#a78bfa" stroke-opacity=".32"/>
-<circle cx="1082" cy="180" r="245" stroke="#67e8f9" stroke-opacity=".32"/>
-<circle cx="1082" cy="180" r="312" stroke="#a78bfa" stroke-opacity=".16" stroke-dasharray="4 14"/>
-<path d="M760 340 Q900 105 1210 150" stroke="#a78bfa" stroke-opacity=".43"/>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="18" fill="url(#dots)"/>
+<ellipse cx="900" cy="160" rx="360" ry="325" fill="url(#violet)"/>
+<ellipse cx="1170" cy="260" rx="290" ry="260" fill="url(#cyan)"/>
+<path d="M0 0 H1200 V360 H0 Z" fill="none" stroke="#7775b6" stroke-opacity=".19" stroke-width="1.5"/>
+<g fill="none" stroke-width="1.5">
+ <circle cx="1000" cy="167" r="104" stroke="#b6a7fb" stroke-opacity=".27"/>
+ <circle cx="1000" cy="167" r="161" stroke="#73d5ef" stroke-opacity=".24"/>
+ <circle cx="1000" cy="167" r="222" stroke="#bdabfc" stroke-opacity=".13" stroke-dasharray="2 11"/>
+ <path d="M830 95 L900 42 L1066 37 L1150 111" stroke="#9f98d8" stroke-opacity=".24"/>
+ <path d="M830 252 L950 302 L1085 251 L1177 290" stroke="#79d7ed" stroke-opacity=".28"/>
+ <path d="M770 280 C880 172 1046 312 1205 170" stroke="url(#accent)" stroke-opacity=".28"/>
+ <path d="M938 91 L1000 167 L1082 111" stroke="#b6adfa" stroke-opacity=".26"/>
 </g>
-<circle cx="967" cy="48" r="7" fill="#67e8f9"/><circle cx="1149" cy="19" r="5.5" fill="#a78bfa"/><circle cx="957" cy="332" r="6" fill="#a78bfa"/>
-<rect x="74" y="57" rx="2" width="39" height="4" fill="url(#line)"/>
-<text x="74" y="100" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing="1">@Toufiqul-27</text>
-<text x="71" y="181" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-1.8">Toufiqul Islam</text>
-<text x="75" y="230" fill="#d4d4eb" font-family="Arial, Helvetica, sans-serif" font-size="21">Software Engineering  •  Web Development  •  Open Source</text>
-<rect x="75" y="278" width="5" height="31" rx="2.5" fill="url(#line)"/>
-<text x="94" y="300" fill="#c4b5fd" font-family="Arial, Helvetica, sans-serif" font-size="19" font-style="italic">Building useful things. Learning with intention.</text>
+<g fill="#a5a9d3"><circle cx="900" cy="42" r="4"/><circle cx="830" cy="252" r="4"/><circle cx="1085" cy="251" r="4"/></g>
+<circle cx="938" cy="91" r="6" fill="#a78bfa"/><circle cx="1082" cy="111" r="6" fill="#67e8f9"/>
+<circle cx="1000" cy="167" r="31" fill="#1b2339" stroke="#ac99e0" stroke-opacity=".43"/>
+<path d="M986 160 L978 167 L986 174 M1014 160 L1022 167 L1014 174 M1006 157 L995 177" fill="none" stroke="#c6b6fb" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="70" y="54" width="30" height="4" rx="2" fill="url(#accent)"/>
+<text x="70" y="98" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="3.4" font-size="15" fill="#a9b2d7">SOFTWARE ENGINEERING  /  OPEN SOURCE</text>
+<text x="67" y="182" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2.2" fill="#f5f7ff">Toufiqul Islam</text>
+<text x="71" y="230" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#c6c7e0">Building practical software. Learning with intention.</text>
+<line x1="71" y1="275" x2="408" y2="275" stroke="url(#accent)" stroke-width="1.5" stroke-opacity=".48"/>
+<text x="71" y="306" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.2" font-size="15" fill="#929fca">BACKEND  •  WEB DEVELOPMENT  •  C++ / JAVA</text>
 </svg>
